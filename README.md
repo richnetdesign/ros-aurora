@@ -1,3 +1,4 @@
-# Local copy of AuroraStore-prebuilt
+# AuroraStore and AuroraServices for RattlesnakeOS
 
-Original at https://github.com/MSe1969/AuroraStore-prebuilt
+Adapted from https://github.com/MSe1969/AuroraStore-prebuilt.
+Apk files taken from https://gitlab.com/AuroraOSS/AuroraStore/-/tags.
